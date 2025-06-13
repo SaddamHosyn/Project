@@ -4,7 +4,7 @@
 
 ## 📄 Abstract
 
-A detailed abstract of this research is provided in [Abstract.pdf](./Abstract.pdf).
+A detailed abstract of this research is provided in [Abstract.pdf](https://github.com/SaddamHosyn/Project/blob/main/Abstract.pdf).
 
 ---
 
@@ -36,7 +36,7 @@ Below are selected visual results from the experiments:
 ---
 
 **Read the Abstract:**  
-Open [Abstract.pdf](./Abstract.pdf) to learn about the motivation, methods, and main findings.
+Open [Abstract.pdf](https://github.com/SaddamHosyn/Project/blob/main/Abstract.pdf) to learn about the motivation, methods, and main findings.
 
 ---
 
